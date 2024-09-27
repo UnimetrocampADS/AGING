@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechSaúde</title>
+    <link rel="stylesheet" href="styles.css">
+<script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=mr5xNKNV6PmL0pa-_VwhOvxopU42Y5aMEwEG6LxwqtgisM4Vj4v1gZXda8ZoeP6Ij_WMrVHjN-v0Rbmw1Kx1FAHRtGHNAbBxVmqSfwm70m0sHb4N4oY5qwjcG-A4radTaxzxZZzEXYDi6EnXZjHiiCC2QuR1ErdKeG6ZSmX1GFzIXqpP0dZJtNfM0e-k3gqM2x9e8vluieL350l5ED5Rhly7sLwozuwrvQIJ3Mdss2N9DHcIOtR4vyo6MbkMzI1ZPgmDSANALA5q-PviSVLYnCLYIEKfI1hPEf6X7F_L6zn-2uUtjdPwoyWvrCFtKOrBLixazIQs3i1IKyWyk1dD2jBqNkwMmU9gWilqID2BfzrxJ0hjAjgRmaIGbaX3j-ZZ" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://me.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9saXZlZXN0YWNpby1teS5zaGFyZXBvaW50LmNvbS9wZXJzb25hbC8yMDI0MDgxNjY3NjFfYWx1bm9zX3VuaW1ldHJvY2FtcF9lZHVfYnIvX2xheW91dHMvMTUvZG93bmxvYWQuYXNweD9Tb3VyY2VVcmw9JTJmcGVyc29uYWwlMmYyMDI0MDgxNjY3NjFfYWx1bm9zX3VuaW1ldHJvY2FtcF9lZHVfYnIlMmZEb2N1bWVudHMlMmZBcnF1aXZvcyUyMGRlJTIwQ2hhdCUyMGRvJTIwTWljcm9zb2Z0JTIwVGVhbXMlMmZ0cmF0YW1lbnRvcy5odG1s"/></head>
+<body>
+    <header>
+        <div class="banner">
+            <img src="https://assets.onecompiler.app/42s77e8pp/42syh9akn/TEC%20SAUDE.jpg" alt="Logo Tech Saúde">
+            <h1><strong>TECH SAÚDE</strong></h1>
+        </div>
+    </header>
+    <nav>
+        <a href="index.html"> <button class="navbotao">HOME</button></a>
+        <a href="cadastro.html"> <button class="navbotao">CADASTRO</button></a>
+        <a href="tratamentos.html"><button class="navbotao">TRATAMENTOS</button></a>
+        <button class="navbotao">DICA DOS PROFISSIONAIS</button>
+        <button class="navbotao">PRODUTOS</button>
+        <a href="informacao.html"> <button class="navbotao">INFORMAÇÕES</button></a>
+    </nav>
+    <main>
+        <div class="content">
+            <h2 class="centered-title"><strong>NOSSOS TRATAMENTOS</strong></h2>
+            <div class="columns">
+                <div class="column">
+                    <h3>Casa de Repouso</h3>
+                    <img src="https://assets.onecompiler.app/42s77e8pp/42sz772qw/casa%20de%20repouso.jpg" alt="Casa de Repouso">
+                    <p>Mais que um lar, um palco para a vida! Proporcionamos um ambiente alegre e estimulante, com atividades que despertam a criatividade e a socialização. Nossos idosos encontram aqui a companhia perfeita e a oportunidade de viver novas experiências.</p>
+                </div>
+                <div class="column">
+                    <h3>Atividade Recreativa</h3>
+                    <img src="https://assets.onecompiler.app/42s77e8pp/42sz772qw/recrea%C3%A7%C3%A3o%20com%20idosos.jpg" alt="Recreação com Idoso">
+                    <p>Variedade de atividades: ginástica, dança, yoga, hidroginástica, jogos de tabuleiro, oficinas de culinária, musicoterapia, arteterapia, passeios, celebrações de datas especiais.</p>
+                </div>
+                <div class="column">
+                    <h3>Clínica Médica</h3>
+                    <img src="https://assets.onecompiler.app/42s77e8pp/42sz772qw/clinica%20m%C3%A9dica%20idoso.webp" alt="Clínica Médica">
+                    <p>Cuide de você com carinho. Nossa equipe especializada oferece um atendimento individualizado, com atividades adaptadas às necessidades de cada residente. Aqui, você encontra o cuidado que merece.</p>
+                </div>
+            </div>
+        </div>
+        <div class="payment">
+            <h2>Formas de Pagamento</h2>
+            <div class="logos">
+                <img src="https://assets.onecompiler.app/42s77e8pp/42syh9akn/medium_visa.png" alt="Visa">
+                <img src="https://assets.onecompiler.app/42s77e8pp/42syh9akn/Como-fazer-cartao-de-credito-Mastercard.jpg" alt="MasterCard">
+                <img src="https://assets.onecompiler.app/42s77e8pp/42syh9akn/cart%C3%A3o-diners.jpg"  alt="Dinerclub">
+                <img src="https://assets.onecompiler.app/42s77e8pp/42syh9akn/pix%20correto.jpg" alt="Pix">
+            </div>
+        </div>
+    </main>
+    <footer>
+        <button>WhatsApp</button>
+        <button>Telefone</button>
+    </footer>
+</body>
+</html>
